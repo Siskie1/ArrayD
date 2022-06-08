@@ -13,6 +13,5 @@ public class CarDetails {
 
         toyota.DisplayAttr();
 
-
     }
 }
